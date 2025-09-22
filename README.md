@@ -48,3 +48,6 @@ This project was developed as part of an academic study to:
 
   Build a foundation for future work in real-world Network Intrusion Detection Systems (NIDS)
 
+  
+## ✨ Developed by [Afrith Ahamed](https://github.com/afrithanahamed)
+
