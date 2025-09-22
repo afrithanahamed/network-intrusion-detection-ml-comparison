@@ -1,12 +1,14 @@
-🚨 Network Intrusion Detection – ML Classification Study
+## 🚨 Network Intrusion Detection – ML Classification Study
 
 A machine learning project that explores and compares multiple classification algorithms on the KDD Cup 1999 dataset.
 
-📌 Project Overview
+
+## 📌 Project Overview
 
 This project focuses on detecting malicious activities in network traffic using supervised machine learning techniques. By applying different algorithms, the study evaluates their strengths, weaknesses, and applicability in real-world network intrusion detection systems (NIDS).
 
-🎯 Objectives
+
+## 🎯 Objectives
 
   🔍 Classify network traffic into normal or attack categories
 
@@ -18,7 +20,8 @@ This project focuses on detecting malicious activities in network traffic using 
 
   📖 Serve as an academic/learning project to understand classification approaches in cybersecurity
 
-  🛠️ Features
+  
+## 🛠️ Features
 
 Implementation of 6 ML algorithms:
 
@@ -34,7 +37,8 @@ Implementation of 6 ML algorithms:
 
   Neural Networks
 
-🚀 Purpose
+
+## 🚀 Purpose
 
 This project was developed as part of an academic study to:
 
